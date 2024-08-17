@@ -2,6 +2,9 @@
   "name": "cli-alias-wizard",
   "version": "0.0.1",
   "description": "Easily create new cli aliases, if you forget how all the time",
+  "bin": {
+    "cli-alias-wizard": "node index.js"
+  },
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
