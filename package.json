@@ -1,6 +1,6 @@
 {
   "name": "cli-alias-wizard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily create new cli aliases, if you forget how all the time",
   "bin": {
     "cli-alias-wizard": "node index.js"
