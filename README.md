@@ -2,6 +2,8 @@
 
 CLI tool for managing shell aliases.
 
+<https://www.npmjs.com/package/cli-alias-wizard>
+
 https://github.com/user-attachments/assets/4678d331-18f1-4102-8116-905950fcb8e5
 
 
